@@ -1,0 +1,16 @@
+@import "tailwindcss";
+:root {
+  --background: #0a0f2c;
+  --text-white: #e8ecf3;
+  --text-dark: #c3c7d1;
+  --blue-primary: #1a237e;
+  --blue-accent: #2196f3;
+}
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button.active {
+  background-color: #0047ab;
+}
